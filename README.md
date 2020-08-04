@@ -4,7 +4,7 @@ Check out the [video]
 
 WordPress data kindly offered by @[catalinpit]
 
-His site: catalins.tech
+His site: https://catalins.tech
 
 This example: https://catalins-tech.vercel.app
 
